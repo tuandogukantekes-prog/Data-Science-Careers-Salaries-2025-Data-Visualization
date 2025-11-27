@@ -19,7 +19,7 @@ warnings.filterwarnings('ignore')
 # 🎨 SAYFA AYARLARI
 # =============================================================================
 st.set_page_config(
-    page_title="📊 Data Science Jobs 2025 Veri Setii Analiz Dashboardu",
+    page_title="Data Science Jobs 2025 Veri Seti Analiz Dashboardu",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="collapsed"
@@ -1069,3 +1069,4 @@ st.markdown("""
     <p style="color: #666; font-size: 0.9rem;">Streamlit | Plotly | Seaborn | Matplotlib</p>
 </div>
 """, unsafe_allow_html=True)
+
