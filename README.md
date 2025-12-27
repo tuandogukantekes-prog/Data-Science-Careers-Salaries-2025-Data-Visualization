@@ -41,7 +41,3 @@ The analysis aims to answer questions like:
 
 
 
-# macOS/Linux
-source .venv/bin/activate
-
-pip install -r requirements.txt
