@@ -39,16 +39,7 @@ The analysis aims to answer questions like:
 
 ---
 
-## Setup
 
-> Recommended: Python 3.10+
-
-```bash
-# (optional) create a virtual environment
-python -m venv .venv
-
-# Windows
-.venv\Scripts\activate
 
 # macOS/Linux
 source .venv/bin/activate
